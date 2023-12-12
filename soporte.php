@@ -125,7 +125,7 @@ if (darkMode === 'enabled') {
 
 
 <h2 style="font-size: 16px;">Soluciones de Problemas de Hardware</h2>
-
+<img src="https://alquilerdecomputadores.co/wp-content/uploads/2019/11/Enmascarar-grupo-159.png" class="responsiveimg">
 <ul>
   <li>Reiniciar el dispositivo</li>
   <p>A veces, un simple reinicio puede solucionar problemas temporales. Si experimentas problemas con tu computadora, la primera medida que debes tomar es reiniciarla. Esto puede resolver problemas menores y restaurar el funcionamiento normal del sistema.</p>
@@ -156,6 +156,9 @@ if (darkMode === 'enabled') {
   <p>Asegúrate de que los controladores del hardware estén actualizados. Puedes hacer esto a través del administrador de dispositivos en Windows o el equivalente en otros sistemas operativos. Mantener los controladores actualizados es importante para garantizar el funcionamiento adecuado de tus dispositivos.</p>
 </ul>
 
+<img src="https://hardzone.es/app/uploads-hardzone.es/2022/02/Luces-LED-Placa-Base.jpg" class="responsiveimg">
+
+
 <ul>
   <li>Realizar un diagnóstico de hardware</li>
   <p>Algunos sistemas tienen herramientas de diagnóstico incorporadas que pueden identificar problemas de hardware. Consulta el manual del usuario o el sitio web del fabricante para obtener más información. El diagnóstico de hardware puede proporcionar información detallada sobre el estado de tus componentes.</p>
@@ -176,11 +179,14 @@ if (darkMode === 'enabled') {
   <p>Si sospechas que la RAM puede ser el problema, puedes utilizar herramientas como MemTest86 para verificar la integridad de tus módulos de RAM. Los problemas de memoria pueden causar bloqueos y errores en tu sistema, por lo que es importante verificar la RAM.</p>
 </ul>
 
+<img src="https://es.digitaltrends.com/wp-content/uploads/2023/10/cuanta-memoria-ram-es-necesaria.jpeg?p=1" class="responsiveimg">
+
 <ul>
   <li>Verificar los discos duros o SSD</li>
   <p>Utiliza herramientas de diagnóstico de disco como CHKDSK en Windows o Disk Utility en macOS para buscar y corregir errores en los discos. Los problemas en los discos duros o SSD pueden causar pérdida de datos y problemas de rendimiento.</p>
 </ul>
 
+<img src="https://www.mouser.ec/images/marketingid/2021/img/126678010.png?v=070223.0223" class="responsiveimg">
 <ul>
   <li>Actualizar el firmware del BIOS/UEFI</li>
   <p>Asegúrate de que el firmware del sistema esté actualizado. Actualizar el firmware puede mejorar la compatibilidad y la estabilidad de tu computadora. Consulta el sitio web del fabricante para obtener las últimas actualizaciones.</p>

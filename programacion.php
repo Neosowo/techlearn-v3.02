@@ -130,6 +130,10 @@ if (darkMode === 'enabled') {
         <li>Bajo nivel: Los lenguajes de bajo nivel, como el lenguaje ensamblador, están más cerca del lenguaje de máquina y son específicos de la arquitectura de la computadora. Son más difíciles de escribir y entender, pero ofrecen un control más preciso sobre el hardware.</li>
     </ul>
 
+    <img src="https://i0.wp.com/www.diarlu.com/wp-content/uploads/2018/10/tipos-lenguajes-programacion.jpg?resize=961%2C518&ssl=1" class="responsiveimg">
+
+
+
     <h3>Tipos de lenguajes de programación</h3>
     <ul>
         <li>Lenguajes imperativos: Estos lenguajes se centran en describir cómo se debe realizar una tarea. Ejemplos incluyen C, C++, Java y Python.</li>
@@ -145,6 +149,9 @@ if (darkMode === 'enabled') {
         <li>Programación funcional: Se centra en el uso de funciones y evita el estado mutable. Promueve la inmutabilidad y la recursión.</li>
         <li>Programación lógica: Se utiliza para resolver problemas basados en reglas lógicas y declarativas. Prolog es un ejemplo de un lenguaje de programación lógica.</li>
     </ul>
+    <img src="https://ecdisis.com/wp-content/uploads/2021/01/02-Lenguaje-de-programación-1024x591.jpeg" class="responsiveimg">
+
+
 
     <h3>Popularidad y casos de uso</h3>
     <ul>
@@ -154,6 +161,9 @@ if (darkMode === 'enabled') {
         <li><strong>C++:</strong> Con un rendimiento cercano al lenguaje ensamblador, se usa en juegos, sistemas operativos y software de alto rendimiento.</li>
         <li><strong>C#:</strong> Desarrollado por Microsoft, se utiliza en aplicaciones de escritorio, desarrollo de juegos con Unity y desarrollo de aplicaciones de Windows.</li>
     </ul>
+    <img src="https://blog.facialix.com/wp-content/uploads/2022/02/Blog210219_2.jpg" class="responsiveimg">
+
+
 
     <h3>Evolución de los lenguajes de programación</h3>
     <p>Los lenguajes de programación continúan evolucionando para adaptarse a las necesidades cambiantes de la tecnología. Nuevos lenguajes surgen para abordar desafíos específicos y simplificar ciertas tareas.</p>
@@ -175,6 +185,9 @@ if (darkMode === 'enabled') {
 
     <h3>Interfaces de usuario (UI)</h3>
     <p>Las aplicaciones de escritorio suelen tener interfaces de usuario más complejas y ricas en comparación con las aplicaciones móviles o web. Los kits de desarrollo de software (SDK) proporcionan componentes para la creación de interfaces gráficas de usuario (GUI). Ejemplos incluyen Windows Forms y Windows Presentation Foundation (WPF) en Windows, y Cocoa en macOS.</p>
+    <img src="https://tuatara.co/wp-content/uploads/2023/01/blog-lo-que-debes-saber-sobre-la-interfaz-grafica.png" class="responsiveimg">
+
+
 
     <h3>Funcionalidades avanzadas</h3>
     <p>Las aplicaciones de escritorio pueden aprovechar al máximo las capacidades de hardware de una computadora de escritorio, lo que les permite realizar tareas complejas, trabajar con grandes conjuntos de datos y ofrecer características avanzadas.</p>
@@ -203,6 +216,7 @@ if (darkMode === 'enabled') {
     <p>La inteligencia artificial (IA) y el aprendizaje automático (AA o machine learning en inglés) son campos de la informática que se centran en crear sistemas y programas capaces de aprender y tomar decisiones basadas en datos. Estos campos están en constante evolución y tienen aplicaciones en una amplia variedad de áreas. Aquí te proporciono una visión general de la inteligencia artificial y el aprendizaje automático:</p>
 
     <h3>Inteligencia Artificial (IA)</h3>
+    
     <ol>
         <li>Definición: La IA se refiere a la creación de sistemas que pueden realizar tareas que normalmente requerirían inteligencia humana. Esto incluye el procesamiento del lenguaje natural, la percepción visual, el razonamiento lógico, la toma de decisiones y más.</li>
         <li>Subcampos de la IA:
@@ -225,6 +239,11 @@ if (darkMode === 'enabled') {
         </li>
         <li>Desafíos de la IA: Incluyen la interpretación de datos sesgados, la privacidad de datos, la ética en la IA y la toma de decisiones transparentes.</li>
     </ol>
+
+    <img src="https://grupoinmotion.com/wp-content/uploads/2020/12/inteligencia-artificial-770x400.jpg" class="responsiveimg">
+
+
+
 
     <h3>Aprendizaje Automático (AA o Machine Learning)</h3>
     <ol>
@@ -272,9 +291,11 @@ if (darkMode === 'enabled') {
         <li>Resiliencia: Garantizar que los sistemas sean capaces de resistir y recuperarse de ataques o fallos.</li>
     </ul>
 
-    <h3>Amenazas y ataques</h3>
-    <p>Las amenazas pueden provenir de diversas fuentes, como hackers, malware, ingeniería social, errores humanos y desastres naturales. Algunos tipos de ataques comunes incluyen el phishing, la denegación de servicio (DDoS), el ransomware y la infiltración de red.</p>
+  
   </div>
+
+  
+  <img src="https://www.ceupe.com/images/easyblog_images/168/b2ap3_thumbnail_confidencialidad-de-datos.jpg" class="responsiveimg">
   
 </section>
 </section>
@@ -352,7 +373,6 @@ document.addEventListener("DOMContentLoaded", function() {
 </body>
 <footer style="background-color: #0b0b0b; color: #fff; padding: 1px 0;">
 
-  <hr style="border-color: #fff;">
   <div class="row">
     <div style="display: flex; align-items: center; justify-content: center; ">
       <img src="logo/ico.png" alt="Logo" style="width: 50px; height: 50px; margin-right: 10px;">
