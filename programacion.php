@@ -45,6 +45,11 @@ mysqli_close($conexion);
 			color: white;
 		}
 
+    .spam-ros{
+      text-align: center;
+      padding-top: 100px;
+      padding-bottom: 100px;    
+    }
 	</style>
     </head>
 <body>
@@ -294,9 +299,14 @@ if (darkMode === 'enabled') {
   
   </div>
 
-  
   <img src="https://www.ceupe.com/images/easyblog_images/168/b2ap3_thumbnail_confidencialidad-de-datos.jpg" class="responsiveimg">
+
   
+
+  <div class="spam-ros">
+       <h2>CODIGOS DE PYTHON EXPLICADOS <a href="">AQUI</a> </h2>
+
+  </div>
 </section>
 </section>
 
